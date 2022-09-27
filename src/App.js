@@ -54,7 +54,7 @@ function App() {
               </a>
 
               <a
-                href="#"
+                href="https://github.com/k1p1w/react-portfolio-three-js/archive/refs/heads/main.zip"
                 className="ml-auto text-base text-textBase font-medium hover:text-slate-100 hover:border-gray-100 cursor-pointer border border-textBase px-2 py-1 rounded-xl duration-100 ease-in-out"
               >
                 Download
@@ -133,15 +133,15 @@ function App() {
 
         {/* Main section */}
 
-        <main className="w-[80%] mt-4">
+        <main className="w-[90%] mt-4">
           {/* About section */}
           <section
             className="w-full grid grid-cols-1 md:grid-cols-2 gap-4 my-24"
             id="about"
           >
             {/* image box */}
-            <div className="w-full h-420 flex items-center justify-center">
-              <div className="w-275 h-340 bg-gray-700 rounded-md relative">
+            <div className="w-full h-580 flex items-center justify-center">
+              <div className="w-275 h-340 bg-gray-700 rounded-md relative mb-12">
                 <img
                   className="w-full h-full absolute -right-4 top-4 object-cover rounded-lg shadow-lg"
                   src={k1p1w}
@@ -151,15 +151,17 @@ function App() {
             </div>
 
             {/* content box */}
-            <div className="w-full h-420 flex flex-col items-center justify-center">
+            <div className="w-full h-580 flex flex-col items-center justify-center">
               <p className="text-lg text-textBase text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                nobis, cupiditate alias et vitae ipsa sapiente optio veritatis
-                perferendis facere dolores fuga, voluptas molestiae accusantium
-                recusandae. Vero, quia maiores unde voluptate cum, incidunt
-                similique sapiente ab maxime magnam temporibus suscipit animi
-                numquam facere laudantium harum enim iusto sit ut dolor
-                voluptates. Obcaecati magni rem commodi asperiores?
+                Всім доброго дня, це моє невелике портфоліо, ледь не дороблено,
+                але все ж таки. Мене звуть Артем і мені 21, вивчаю програмування
+                майже рік без будь-якої допомоги (тобто самоучка). У мене є
+                знання в HTML, CSS, JS, ReactJS, NodeJs та Git/Github(але вони
+                не ідеальні та вдосконалюються щодня). Хотілося б знайти роботу
+                у сфері IT-технологій (цікавить більше Front-end), і вже там
+                удосконалювати їх з людьми, які зможуть допомогти чи підказати в
+                чомусь. Спасибі за увагу. Нижче є посилання на мої соціальні
+                мережі.
               </p>
 
               <motion.button
@@ -167,7 +169,7 @@ function App() {
                 class="w-full md:w-auto relative mt-6 inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-green-400 to-blue-600 group-hover:from-green-400 group-hover:to-blue-600 hover:text-white dark:text-white focus:ring-4 focus:ring-green-200 dark:focus:ring-green-800 hover:shadow-lg hover:shadow-teal-500/50 hover:dark:shadow-lg hover:dark:shadow-teal-800/80"
               >
                 <span class="w-full md:w-auto relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
-                  Download
+                  -- Bye👋 --
                 </span>
               </motion.button>
             </div>
