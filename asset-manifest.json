@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-portfolio-three-js/static/css/main.da48ce5f.css",
-    "main.js": "/react-portfolio-three-js/static/js/main.d0d490d3.js",
+    "main.css": "/react-portfolio-three-js/static/css/main.311831e1.css",
+    "main.js": "/react-portfolio-three-js/static/js/main.8a2b20cd.js",
     "static/js/526.d14881fe.chunk.js": "/react-portfolio-three-js/static/js/526.d14881fe.chunk.js",
     "static/js/232.4bd72b03.chunk.js": "/react-portfolio-three-js/static/js/232.4bd72b03.chunk.js",
     "static/media/k1p1w.png": "/react-portfolio-three-js/static/media/k1p1w.90ee89b38ad017940053.png",
     "static/media/react-sneakers.png": "/react-portfolio-three-js/static/media/react-sneakers.2513fb736396faa7268c.png",
     "index.html": "/react-portfolio-three-js/index.html",
-    "main.da48ce5f.css.map": "/react-portfolio-three-js/static/css/main.da48ce5f.css.map",
-    "main.d0d490d3.js.map": "/react-portfolio-three-js/static/js/main.d0d490d3.js.map",
+    "main.311831e1.css.map": "/react-portfolio-three-js/static/css/main.311831e1.css.map",
+    "main.8a2b20cd.js.map": "/react-portfolio-three-js/static/js/main.8a2b20cd.js.map",
     "526.d14881fe.chunk.js.map": "/react-portfolio-three-js/static/js/526.d14881fe.chunk.js.map",
     "232.4bd72b03.chunk.js.map": "/react-portfolio-three-js/static/js/232.4bd72b03.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da48ce5f.css",
-    "static/js/main.d0d490d3.js"
+    "static/css/main.311831e1.css",
+    "static/js/main.8a2b20cd.js"
   ]
 }
