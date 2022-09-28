@@ -54,7 +54,7 @@ function App() {
               </a>
 
               <a
-                href="https://github.com/k1p1w/react-portfolio-three-js/archive/refs/heads/main.zip"
+                href="https://github.com/k1p1w/react-portfolio-three-js"
                 className="ml-auto text-base text-textBase font-medium hover:text-slate-100 hover:border-gray-100 cursor-pointer border border-textBase px-2 py-1 rounded-xl duration-100 ease-in-out"
               >
                 Download
